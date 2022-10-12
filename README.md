@@ -5,8 +5,12 @@
 2022.10.05
 Today I learned Python.
 
-----
-장희뇨석이 같이 공부하자고 해서 같이 선행학습으로 공부하고 있는데
-딱 봐도 나만 할것같음
+2022.10.12
+Today I learned Python at home.
+I want to run this at local. BUT selenium setting is so hard to me TT.
+so I moved on this in replit.
+https://replit.com/@jonghankim/webscrapper
 
-장희야 나는 앞서갈게 수고
+----
+로컬에서 하려고 했는데 역시 로컬셋팅은 힘들다;; 그냥 알려주는 대로 해야지...
+
